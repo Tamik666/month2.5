@@ -1,0 +1,11 @@
+__pycache__/
+.venv
+.idea
+26_bot
+lesson
+py
+г
+db_nasa.py
+nasa11.db
+reg.txt
+task.py
