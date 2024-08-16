@@ -24,9 +24,9 @@ class Bank:
 
 account = Bank("Sam", 0)
 account2 = Bank("Alex", 0)
-account2.moneyX()
-account.moneyX()
-account.merge(account2)
+# account2.moneyX()
+# account.moneyX()
+# account.merge(account2)
 # account._Bank__jackpot()
 # account._kill()
 
